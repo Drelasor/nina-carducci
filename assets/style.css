@@ -328,7 +328,7 @@ input[type="submit"] {
 		width: 100%;
 		padding: 0 0 0 0;
 	}
-	.menu .nav li {
+	.menu nav li {
 		flex: 1;
 		padding-block: 1em;
 		text-align: center;
