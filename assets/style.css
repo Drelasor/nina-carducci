@@ -264,7 +264,7 @@ input[type="submit"] {
 }
 
 @media all and (max-width: 1000px) {
-	#about-me__introduction h3, #about-me__introduction p  {
+	#about-me h3, #about-me p  {
 		width: 100%;
 	}
 
