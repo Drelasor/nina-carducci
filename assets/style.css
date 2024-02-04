@@ -192,12 +192,6 @@ nav a {
 	justify-content: space-between;
 	z-index: 1;
 }
-.price{
-	font-size: calc(1.3rem + .6vw);
-	margin: 5px 0 5px 0;
-	
-}
-
 
 #contact {
 	margin: auto;
