@@ -84,10 +84,10 @@ nav a {
 	font-family: 'Spectral';
 	font-weight: 800;
 	font-style: italic;
-	width: 60%;
+	width: 100%;
 	font-size: 1em;
 }
-#about-me p {
+#about-me .content {
 	width: 80%;
 	font-size: 14px;
 }
@@ -192,6 +192,12 @@ nav a {
 	justify-content: space-between;
 	z-index: 1;
 }
+.price{
+	font-size: calc(1.3rem + .6vw);
+	margin: 5px 0 5px 0;
+	
+}
+
 
 #contact {
 	margin: auto;
@@ -257,9 +263,6 @@ input[type="submit"] {
 	.about-me__title {
 		margin-top: 0;
 		margin-bottom: 1em;
-	}
-	#about-me h6, #about-me p {
-		width: 100%;
 	}
 }
 
