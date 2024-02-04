@@ -84,7 +84,7 @@ nav a {
 	font-family: 'Spectral';
 	font-weight: 800;
 	font-style: italic;
-	width: 100%;
+	width: 60%;
 	font-size: 1em;
 }
 #about-me .content {
@@ -267,7 +267,7 @@ input[type="submit"] {
 }
 
 @media all and (max-width: 1000px) {
-	#about-me h3, #about-me p  {
+	 #about-me p  {
 		width: 100%;
 	}
 
